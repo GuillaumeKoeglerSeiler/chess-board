@@ -1,2 +1,2 @@
 # chess-board
-Chess board made with JavaScript
+Chess board made with JavaScript and CSS
